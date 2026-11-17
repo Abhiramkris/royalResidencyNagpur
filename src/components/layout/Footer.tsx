@@ -68,28 +68,28 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/#rooms" className="hover:text-[#C5A880] transition-colors">
+                <Link href="/rooms" className="hover:text-[#C5A880] transition-colors">
                   Rooms & Suites
                 </Link>
               </li>
               <li>
-                <Link href="/#banquets" className="hover:text-[#C5A880] transition-colors">
+                <Link href="/banquets" className="hover:text-[#C5A880] transition-colors">
                   Banquet & Events
                 </Link>
               </li>
               <li>
-                <Link href="/#dining" className="hover:text-[#C5A880] transition-colors">
+                <Link href="/dining" className="hover:text-[#C5A880] transition-colors">
                   Dining & Restaurant
                 </Link>
               </li>
               <li>
-                <Link href="/#amenities" className="hover:text-[#C5A880] transition-colors">
+                <Link href="/amenities" className="hover:text-[#C5A880] transition-colors">
                   Hotel Amenities
                 </Link>
               </li>
               <li>
                 <Link href="/gallery" className="hover:text-[#C5A880] transition-colors">
-                  Photo Gallery
+                  Photo & Event Gallery
                 </Link>
               </li>
               <li>
